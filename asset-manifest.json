@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RoboContacts/static/css/main.bb471a72.chunk.css",
+    "main.js": "/RoboContacts/static/js/main.165949ca.chunk.js",
+    "main.js.map": "/RoboContacts/static/js/main.165949ca.chunk.js.map",
+    "runtime-main.js": "/RoboContacts/static/js/runtime-main.7298f62a.js",
+    "runtime-main.js.map": "/RoboContacts/static/js/runtime-main.7298f62a.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/RoboContacts/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js": "/RoboContacts/static/js/2.db7782eb.chunk.js",
+    "static/js/2.db7782eb.chunk.js.map": "/RoboContacts/static/js/2.db7782eb.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/RoboContacts/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/RoboContacts/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/RoboContacts/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/RoboContacts/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.bb471a72.chunk.css.map": "/RoboContacts/static/css/main.bb471a72.chunk.css.map",
+    "static/js/2.db7782eb.chunk.js.LICENSE.txt": "/RoboContacts/static/js/2.db7782eb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboContacts/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7298f62a.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js",
+    "static/css/main.bb471a72.chunk.css",
+    "static/js/main.165949ca.chunk.js"
+  ]
+}
